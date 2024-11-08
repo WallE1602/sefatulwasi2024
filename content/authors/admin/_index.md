@@ -11,7 +11,7 @@ last_name: Wasi
 
 # Status emoji
 status:
-  icon: 💻
+  icon: 
 
 # Is this the primary user of the site?
 superuser: true
@@ -32,7 +32,7 @@ organizations:
 # Social network links
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
 profiles:
-  - icon: brands/gmail
+  - icon: fa-gmail
     url: 'mailto:sefatulwasi@gmail.com'
     label: E-mail Me
 
