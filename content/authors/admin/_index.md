@@ -179,11 +179,4 @@ awards:
 
 ## About Me
 
-I'm a motivated Researcher/Developer with exposure in AI/ML, medical image processing, and Flutter app development. Finished my Bachelor’s in Computer Science and am currently engaged in medical imaging-based research in the Department of CSE at Independent University, Bangladesh. Working in Medical AI towards predicting abnormality, disease detection, monitoring disease progression, and prevention of misdiagnosis. My focus lies in developing automatic methods for region of interest (ROI) localization from radiologic images using modern deep learning techniques.
-Research Interests: Computer-aided diagnosis (CADx), Computer-aided Detection (CADe), Medical image processing, Deep Learning.
-
-The vision is to work on novel approaches that will - 
-i) Offer comprehensive diagnosis solutions
-ii) Develop assistive systems that will contribute as decision support system in clinical workflows of disease diagnosis.
-iii) Aiming towards interdisciplinary collaborative approach with researchers, clinicians and industry experts.
-iv) Explainable AI (XAI) in biomedical; improving patient communication, ensuring model reliability and regulatory standards.
+Motivated researcher and developer with experience in AI/ML, medical imaging, and app development. Currently engaged in medical AI research at Independent University, Bangladesh, I focus on deep learning for disease detection, ROI localization, and decision support in clinical workflows. Passionate about advancing computer-aided diagnosis (CADx), explainable AI (XAI), and interdisciplinary collaboration to improve patient outcomes.
