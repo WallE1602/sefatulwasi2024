@@ -1,17 +1,17 @@
 ---
 # Display name
-title: 吳健雄
+title: Sefatul Wasi
 
 # Name pronunciation (optional)
-name_pronunciation: Chien Shiung Wu
+name_pronunciation:
 
 # Full name (for SEO)
-first_name: Shiung Wu
-last_name: Chien
+first_name: Sefatul
+last_name: Wasi
 
 # Status emoji
 status:
-  icon: ☕️
+  icon: 💻
 
 # Is this the primary user of the site?
 superuser: true
@@ -20,87 +20,83 @@ superuser: true
 highlight_name: true
 
 # Role/position/tagline
-role: Chief Scientist
+role: Research & Development Officer
 
 # Organizations/Affiliations to display in Biography blox
 organizations:
-  - name: OpenAI
-    url: https://openai.com/
+  - name: Dept of CSE, Independent University, Bangladesh.
+    url: https://iub.ac.bd/academics/departments/cse
+  - name: Intelligent Computing and Systems Research Group (ICSRG)
+    url: https://saadiabintealam.netlify.app/
 
 # Social network links
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
 profiles:
-  - icon: at-symbol
-    url: 'mailto:your-email@example.com'
+  - icon: brands/gmail
+    url: 'mailto:sefatulwasi@gmail.com'
     label: E-mail Me
-  - icon: brands/x
-    url: https://twitter.com/GetResearchDev
-  - icon: brands/instagram
-    url: https://www.instagram.com/
+
   - icon: brands/github
-    url: https://github.com/gcushen
+    url: https://github.com/WallE1602
+
   - icon: brands/linkedin
-    url: https://www.linkedin.com/
+    url: https://www.linkedin.com/in/sefatul-wasi-5a606715a/
+
   - icon: academicons/google-scholar
-    url: https://scholar.google.com/
+    url: https://scholar.google.com/citations?user=jjaMIgYAAAAJ&hl=en
+  
+  - icon: academicons/researchgate
+    url: https://www.researchgate.net/profile/Sefatul-Wasi
+    
   - icon: academicons/orcid
-    url: https://orcid.org/
+    url: https://orcid.org/0009-0004-6949-0607
+
+  - icon: brands/x
+    url: https://x.com/Sefatul_wasi16
+
+  - icon: brands/instagram
+    url: https://www.instagram.com/waiccha/
+
 
 interests:
-  - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
+  - Medical Image Processing
+  - Computer-aided Diagnosis (CADx)
+  - Deep Learning
+  - Renewable Energy
 
 education:
-  - area: PhD Artificial Intelligence
-    institution: Stanford University
-    date_start: 2016-01-01
-    date_end: 2020-12-31
+  - area: B.Sc. in Computer Science 
+    institution: Independent University, Bangladesh (IUB)
+    date_start: 2018-01-01
+    date_end: 2023-11-08
     summary: |
-      Thesis on _Why LLMs are awesome_. Supervised by [Prof Joe Smith](https://example.com). Presented papers at 5 IEEE conferences with the contributions being published in 2 Springer journals.
-    button:
-      text: 'Read Thesis'
-      url: 'https://example.com'
-  - area: MEng Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    date_start: 2016-01-01
-    date_end: 2020-12-31
-    summary: |
-      GPA: 3.8/4.0
-
-      Courses included:
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - area: BSc Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    date_start: 2016-01-01
-    date_end: 2020-12-31
-    summary: |
-      GPA: 3.4/4.0
+      GPA: 3.44/4.0 (Average GPA: 3.76 / 4.00 in Final Year including Thesis) 
       
       Courses included:
       - lorem ipsum dolor sit amet, consectetur adipiscing elit
       - lorem ipsum dolor sit amet, consectetur adipiscing elit
       - lorem ipsum dolor sit amet, consectetur adipiscing elit
 work:
-  - position: Director of Cloud Infrastructure
-    company_name: GenCoin
-    company_url: ''
-    company_logo: ''
-    date_start: 2021-01-01
+  - position: Research & Development Officer
+    company_name: Independent University, Bangladesh (IUB)
+    company_url: 'https://iub.ac.bd/academics/departments/cse'
+    company_logo: 'https://upload.wikimedia.org/wikipedia/en/4/4d/Independent_University%2C_Bangladesh_logo.png'
+    date_start: 2024-10-07
     date_end: ''
     summary: |2-
       Responsibilities include:
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - position: Backend Software Engineer
-    company_name: X
-    company_url: ''
-    company_logo: ''
-    date_start: 2016-01-01
-    date_end: 2020-12-31
+      - Building a feasible pipeline of senior project/thesis and yearly projects for the CSE/CS curriculum.
+      - Assist faculty members with research activities, exam invigilation and tutorials. 
+      - Assist in the accreditation process through preparing Reports for the department, contributing to the 
+        university's academic recognition.
+
+ 
+  - position: Research Assistant 
+    company_name: Independent University, Bangladesh (IUB)
+    company_url: 'https://iub.ac.bd/academics/departments/cse'
+    company_logo: 'https://upload.wikimedia.org/wikipedia/en/4/4d/Independent_University%2C_Bangladesh_logo.png'
+    date_start: 2023-06-01
+    date_end: 2024-09-30
     summary: |
       Responsibilities include:
       - Migrated infrastructure to a new data center
@@ -183,4 +179,11 @@ awards:
 
 ## About Me
 
-Chien Shiung Wu is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+I'm a motivated Researcher/Developer with exposure in AI/ML, medical image processing, and Flutter app development. Finished my Bachelor’s in Computer Science and am currently engaged in medical imaging-based research in the Department of CSE at Independent University, Bangladesh. Working in Medical AI towards predicting abnormality, disease detection, monitoring disease progression, and prevention of misdiagnosis. My focus lies in developing automatic methods for region of interest (ROI) localization from radiologic images using modern deep learning techniques.
+Research Interests: Computer-aided diagnosis (CADx), Computer-aided Detection (CADe), Medical image processing, Deep Learning.
+
+The vision is to work on novel approaches that will - 
+i) Offer comprehensive diagnosis solutions
+ii) Develop assistive systems that will contribute as decision support system in clinical workflows of disease diagnosis.
+iii) Aiming towards interdisciplinary collaborative approach with researchers, clinicians and industry experts.
+iv) Explainable AI (XAI) in biomedical; improving patient communication, ensuring model reliability and regulatory standards.
