@@ -85,8 +85,10 @@ work:
     date_end: ''
     summary: |2-
       Responsibilities include:
-      Medical Imaging Research & Analysis (MIRA) Wing, Center for Computational & Data Sciences (CCDS):
       
+      
+      Medical Imaging Research & Analysis (MIRA) Wing, Center for Computational & Data Sciences (CCDS):
+
       - Continuing previous research work and collaborating to new projects as per requirement with Advanced Medical Engineering Research Institute (AMERI), University of Hyogo, Japan, Machine Learning Group, Qatar University and Quantum Computing Group, Algoma University, Canada.
       - Co-supervise students, manage computational resources and documentations. 
       - Securing national/international research grants and collaborations. 
@@ -109,6 +111,41 @@ work:
       - Working on automatic ROI localization solutions using deep learning techniques from radiologic images.
       - Analyze and process biomedical dataset for deep learning models.
       - Projects in collaboration with Advanced Medical Engineering Research Institute (AMERI), University of Hyogo. 
+
+
+  - position: ML Engineer 
+    company_name: Omdena Bangladesh Chapter, Omdena.
+    company_url: 'https://www.omdena.com/local-chapters/bangladesh-chapter'
+    company_logo: assets/media/omdena.png
+    date_start: 2023-03-01
+    date_end: 2023-05-30
+    summary: |
+      Responsibilities include:
+      - Worked on a real-world AI project - 'PropertyAI' to develop an AI-powered recommendation platform for the real-estate industry in Bangladesh.
+      - Worked as a core team member, collaborating with over 120 international collaborators.
+
+  - position: Undergraduate Student Researcher 
+    company_name: Independent University, Bangladesh (IUB)
+    company_url: 'https://iub.ac.bd/academics/departments/cse'
+    company_logo: 'https://upload.wikimedia.org/wikipedia/en/4/4d/Independent_University%2C_Bangladesh_logo.png'
+    date_start: 2022-07-22
+    date_end: 2023-05-30
+    summary: |
+      Responsibilities include:
+      - Worked as a thesis student on a project utilizing image processing and deep learning techniques.
+      - Published first paper as first author at the ISMVL 2023, Matsue, Japan.
+      - Collaborated with Advanced Medical Engineering Research Institute (AMERI), University of Hyogo.
+
+  - position: Teaching Assistant  
+    company_name: Independent University, Bangladesh (IUB)
+    company_url: 'https://iub.ac.bd/academics/departments/cse'
+    company_logo: 'https://upload.wikimedia.org/wikipedia/en/4/4d/Independent_University%2C_Bangladesh_logo.png'
+    date_start: 2019-01-01
+    date_end: 2022-03-31
+    summary: |
+      Responsibilities include:
+      - Assisted the professors in experiments and tutorials (PHY101, PHY102). 
+      - Organized national competitions like Math and Physics Olympiad. 
 
 # Skills
 # Add your own SVG icons to `assets/media/icons/`
