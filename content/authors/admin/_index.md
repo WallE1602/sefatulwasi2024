@@ -32,7 +32,7 @@ organizations:
 # Social network links
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
 profiles:
-  - icon: fa-gmail
+  - icon: fa-envelope
     url: 'mailto:sefatulwasi@gmail.com'
     label: E-mail Me
 
@@ -72,10 +72,10 @@ education:
     summary: |
       GPA: 3.44/4.0 (Average GPA: 3.76 / 4.00 in Final Year including Thesis) 
       
-      Courses included:
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
+      Overview:
+      - Thesis: “Kidney Tumor Recognition from Abdominal CT Images using Transfer Learning and Deep Convolutional Neural Networks.”; Supervisor: Dr. Saadia Binte Alam
+      - Major: Computer Science | Minor: Management Information Systems (MIS) 
+      
 work:
   - position: Research & Development Officer
     company_name: Independent University, Bangladesh (IUB)
@@ -85,10 +85,17 @@ work:
     date_end: ''
     summary: |2-
       Responsibilities include:
+      Medical Imaging Research & Analysis (MIRA) Wing, Center for Computational & Data Sciences (CCDS):
+      
+      - Continuing previous research work and collaborating to new projects as per requirement with Advanced Medical Engineering Research Institute (AMERI), University of Hyogo, Japan, Machine Learning Group, Qatar University and Quantum Computing Group, Algoma University, Canada.
+      - Co-supervise students, manage computational resources and documentations. 
+      - Securing national/international research grants and collaborations. 
+
+      Departmental Responsibilities:
+
       - Building a feasible pipeline of senior project/thesis and yearly projects for the CSE/CS curriculum.
       - Assist faculty members with research activities, exam invigilation and tutorials. 
-      - Assist in the accreditation process through preparing Reports for the department, contributing to the 
-        university's academic recognition.
+      - Assist in the accreditation process through preparing Reports for the department, contributing to the university's academic recognition.
 
  
   - position: Research Assistant 
@@ -99,9 +106,9 @@ work:
     date_end: 2024-09-30
     summary: |
       Responsibilities include:
-      - Migrated infrastructure to a new data center
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
+      - Working on automatic ROI localization solutions using deep learning techniques from radiologic images.
+      - Analyze and process biomedical dataset for deep learning models.
+      - Projects in collaboration with Advanced Medical Engineering Research Institute (AMERI), University of Hyogo. 
 
 # Skills
 # Add your own SVG icons to `assets/media/icons/`
