@@ -1,12 +1,23 @@
 ---
-title: Project
-cms_exclude: true
+title: Projects
+summary: My courses
+type: landing
 
-# View.
-view: citation
+cascade:
+  - _target:
+      kind: page
+    params:
+      show_breadcrumb: true
 
-# Optional header image (relative to `static/media/` folder).
-banner:
-  caption: ''
-  image: ''
+sections:
+  - block: collection
+    id: projects
+    content:
+      title: Projects
+      filters:
+        folders:
+          - projects
+    design:
+      view: article-grid
+      columns: 2
 ---
